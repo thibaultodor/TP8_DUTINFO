@@ -1,0 +1,53 @@
+fr.umontpellier.iut.expressions.ExpressionsTest
+  ✓ calculerValeur_12
+  ✓ calculerValeur_10_fois_5
+fr.umontpellier.iut.expressions.NombreTest
+  ✓ calculerValeur_moins_10
+  ✓ calculerValeur_0
+  ✗ toString_moins_10
+  ✗ toString_0
+fr.umontpellier.iut.expressions.OperationTest
+  ✓ toString_3_moins_6
+  ✓ toString_2_plus_3_fois_5
+  ✓ toString_7_divise_par_2
+  ✓ calculerValeur_7_divise_par_2
+  ✓ calculerValeur_2_plus_3
+  ✓ toString_exp_profondeur_2
+  ✓ calculerValeur_2_plus_3_fois_5
+  ✓ calculerValeur_5_fois_2
+  ✓ calculerValeur_exp_profondeur_2
+  ✓ toString_5_fois_2_plus_3
+  ✓ toString_2_plus_3
+  ✓ toString_5_fois_2
+  ✓ calculerValeur_5_fois_2_plus_3
+  ✓ calculerValeur_3_moins_6
+fr.umontpellier.iut.svg.AppSVGTest
+  ✓ test_if_main_method_was_implemented
+fr.umontpellier.iut.svg.FormesSimplesTest
+  ✓ cercle_toSVG
+  ✓ rectangle_toSVG
+fr.umontpellier.iut.svg.GroupTest
+  ✓ groupe_avec_deux_rectangles
+  ✓ test_SVG_dans_Group
+  ✓ groupe_avec_un_groupe_avec_un_cercle
+  ✓ groupe_vide
+fr.umontpellier.iut.svg.HierarchyTest
+  ✓ svg_n_herite_pas_du_parent_direct_de_circle
+  ✓ circle_herite_indirectement_de_tag
+fr.umontpellier.iut.svg.RectangleTest
+  ✓ angles_arrondis
+fr.umontpellier.iut.svg.SVGTest
+  ✓ image_SVG_vide
+  ✓ test_SVG_dans_SVG
+fr.umontpellier.iut.svg.StyleTest
+  ✓ cercle_avec_strokeWidth
+  ✓ cercle_avec_stroke_et_fill_et_opacity
+fr.umontpellier.iut.svg.TransformTest
+  ✓ translate_toString
+  ✓ style_avec_une_translation
+  ✓ style_avec_une_translation_puis_une_rotation_puis_une_echelle
+  ✓ style_sans_transformation
+  ✓ rotate_toString
+  ✓ scale_toString
+
+38 / 40 tests réussis
